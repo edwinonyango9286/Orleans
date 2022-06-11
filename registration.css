@@ -1,0 +1,19 @@
+
+
+body{
+    background-color:gray;
+    text-align: center;
+}
+
+.register-box{
+    width: 300px;
+    height: 100;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    color: black;
+}
+
+
+    
+
